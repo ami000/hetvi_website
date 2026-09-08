@@ -24,3 +24,7 @@ npm run dev     # http://localhost:3000
 - Colors live in the `@theme` block of [app/globals.css](app/globals.css).
 
 `local_resources/` holds the original photos and LinkedIn PDF; it is gitignored and never deployed.
+
+## Deployment status
+
+Pushes to `main` trigger an automatic deployment via the Vercel GitHub integration.
