@@ -28,3 +28,5 @@ npm run dev     # http://localhost:3000
 ## Deployment status
 
 Pushes to `main` trigger an automatic deployment via the Vercel GitHub integration.
+The repository is public, so deployments build for commits from any contributor
+with push access.
