@@ -22,7 +22,7 @@ export default function About() {
                 a little about me
               </p>
               <h2 className="font-display text-4xl font-semibold leading-tight tracking-tight sm:text-5xl">
-                A teacher, a painter,
+                A trainer, a painter,
                 <br />
                 a builder of{" "}
                 <span className="script-accent text-rose">confidence.</span>

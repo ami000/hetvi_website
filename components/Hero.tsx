@@ -40,7 +40,7 @@ export default function Hero() {
 
           <Reveal delay={200}>
             <p className="mt-7 max-w-xl text-lg leading-relaxed text-ink-soft">
-              Hi, I&apos;m Hetvi — a Cambridge-certified English teacher.
+              Hi, I&apos;m Hetvi — a Cambridge-certified English trainer.
               I run live, small-group classes for adults — business
               communication, everyday fluency and one-on-one coaching — and
               I&apos;ve helped learners from over twenty countries speak with
